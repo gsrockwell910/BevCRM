@@ -1,0 +1,12 @@
+com/gavinrockwell/bevcrm/dao/AccountDAO.class
+com/gavinrockwell/bevcrm/ui/ConsoleUI.class
+com/gavinrockwell/bevcrm/dao/ContactDAO.class
+com/gavinrockwell/bevcrm/model/Account$Builder.class
+com/gavinrockwell/bevcrm/db/DatabaseConnection.class
+com/gavinrockwell/bevcrm/model/OrderStatus.class
+com/gavinrockwell/bevcrm/model/Account.class
+com/gavinrockwell/bevcrm/model/Order.class
+com/gavinrockwell/bevcrm/model/AccountType.class
+com/gavinrockwell/bevcrm/model/Contact.class
+com/gavinrockwell/bevcrm/Main.class
+com/gavinrockwell/bevcrm/dao/OrderDAO.class
